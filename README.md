@@ -6,11 +6,11 @@
 
 | Job | Employer · place | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based · check eligibility | 2026-10-14 | 🔴 2 days | 🟡 Medium |
-| [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku | 2026-10-14 | 🔴 2 days | 🟡 Medium |
-| [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops#gaza) | UNOPS · Gaza · P-4 | 2026-10-18 | 🔴 6 days | 🟡 Medium |
-| [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS · Damascus · IICA-3 | 2026-10-30 | 18 days | 🟢 High |
-| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 18 days | 🟢 High |
+| [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based · check eligibility | 2026-10-14 | 🔴 1 days | 🟡 Medium |
+| [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku | 2026-10-14 | 🔴 1 days | 🟡 Medium |
+| [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops#gaza) | UNOPS · Gaza · P-4 | 2026-10-18 | 🔴 5 days | 🟡 Medium |
+| [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS · Damascus · IICA-3 | 2026-10-30 | 17 days | 🟢 High |
+| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 17 days | 🟢 High |
 | [Architect / Civil Engineer – Existing Buildings (Req 3412)](https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN) | STRABAG · Austria | – | check | 🟢 High |
 | [Shelter and Settlement Coordinator](https://unjobs.org/skills/infrastructure-projects) | Danish Refugee Council · Beirut | – | check | 🟢 High |
 | [Head of Building & IT Infrastructure Department](https://talents.coe.int/en_GB/careersmarketplace/JobDetail/Head-of-Building-and-IT-Infrastructure-Department/1565) | Council of Europe · Strasbourg | – | check | 🟡 Medium |
@@ -22,6 +22,6 @@
 
 | Job | Employer · place | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | 🔴 -2 days | 🟢 High |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | 🔴 -3 days | 🟢 High |
 
 </details>
