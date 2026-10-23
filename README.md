@@ -6,8 +6,8 @@
 
 | Job | Employer · place | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS · Damascus · IICA-3 | 2026-10-30 | 8 days | 🟢 High |
-| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 8 days | 🟢 High |
+| [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS · Damascus · IICA-3 | 2026-10-30 | 🔴 7 days | 🟢 High |
+| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 🔴 7 days | 🟢 High |
 | [Architect / Civil Engineer – Existing Buildings (Req 3412)](https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN) | STRABAG · Austria | – | check | 🟢 High |
 | [Shelter and Settlement Coordinator](https://unjobs.org/skills/infrastructure-projects) | Danish Refugee Council · Beirut | – | check | 🟢 High |
 | [Head of Building & IT Infrastructure Department](https://talents.coe.int/en_GB/careersmarketplace/JobDetail/Head-of-Building-and-IT-Infrastructure-Department/1565) | Council of Europe · Strasbourg | – | check | 🟡 Medium |
@@ -19,9 +19,9 @@
 
 | Job | Employer · place | Deadline | Left | Fit |
 |---|---|---|---|---|
-| [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based · check eligibility | 2026-10-14 | 🔴 -8 days | 🟡 Medium |
-| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | 🔴 -12 days | 🟢 High |
-| [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku | 2026-10-14 | 🔴 -8 days | 🟡 Medium |
-| [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops#gaza) | UNOPS · Gaza · P-4 | 2026-10-18 | 🔴 -4 days | 🟡 Medium |
+| [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based · check eligibility | 2026-10-14 | 🔴 -9 days | 🟡 Medium |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | 🔴 -13 days | 🟢 High |
+| [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku | 2026-10-14 | 🔴 -9 days | 🟡 Medium |
+| [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops#gaza) | UNOPS · Gaza · P-4 | 2026-10-18 | 🔴 -5 days | 🟡 Medium |
 
 </details>
